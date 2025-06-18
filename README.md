@@ -1,4 +1,5 @@
 # SuperChain Farmer
+**Купить софт - https://t.me/superchaineco_bot**
 
 ## 🌟 Главные особенности
 
@@ -570,6 +571,7 @@ python main.py --debug
   }
 }
 ```
+**Купить софт - https://t.me/superchaineco_bot**
 
 ## 🤝 Поддержка
 
